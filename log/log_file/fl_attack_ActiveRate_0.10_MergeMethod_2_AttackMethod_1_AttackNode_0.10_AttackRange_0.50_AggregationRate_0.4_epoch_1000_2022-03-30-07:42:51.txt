@@ -1,0 +1,3000 @@
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 1, 10000 inst] Testing model accuracy: 0.5772, Loss: 0.6890
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 2, 10000 inst] Testing model accuracy: 0.6119, Loss: 0.6880
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 3, 10000 inst] Testing model accuracy: 0.6193, Loss: 0.6870
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 4, 10000 inst] Testing model accuracy: 0.6202, Loss: 0.6863
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 5, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6853
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 6, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6844
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 7, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6835
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 8, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6830
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 9, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6824
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 10, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6817
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 11, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6813
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 12, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6807
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 13, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6801
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 14, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6795
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 15, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6790
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 16, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6787
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 17, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6781
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 18, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6778
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 19, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6773
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 20, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6769
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 21, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6766
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 22, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6763
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 23, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6762
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 24, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6757
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 25, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6755
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 26, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6752
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 27, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6749
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 28, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6746
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 29, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6744
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 30, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6742
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 31, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6740
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 32, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6738
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 33, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6735
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 34, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6733
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 35, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6731
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 36, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6730
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 37, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6728
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 38, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6726
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 39, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6725
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 40, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6724
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 41, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6722
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 42, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6720
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 43, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6719
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 44, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6718
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 45, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6717
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 46, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6716
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 47, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6715
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 48, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6713
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 49, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6712
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 50, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6712
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 51, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6711
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 52, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6710
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 53, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6709
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 54, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6708
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 55, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6707
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 56, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6705
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 57, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6705
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 58, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6705
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 59, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6704
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 60, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6704
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 61, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6703
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 62, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6702
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 63, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6701
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 64, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6701
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 65, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6701
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 66, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6700
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 67, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6700
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 68, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6698
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 69, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6698
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 70, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6697
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 71, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6697
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 72, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6697
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 73, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6697
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 74, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6696
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 75, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6695
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 76, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6695
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 77, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6694
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 78, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6694
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 79, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6694
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 80, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6693
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 81, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6693
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 82, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6693
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 83, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6692
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 84, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6692
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 85, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6692
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 86, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6691
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 87, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6691
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 88, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6691
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 89, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6690
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 90, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6690
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 91, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6689
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 92, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6689
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 93, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6689
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 94, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6688
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 95, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6689
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 96, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6688
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 97, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6688
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 98, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6687
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 99, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6687
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 100, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6687
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 101, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6686
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 102, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6686
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 103, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6686
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 104, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6685
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 105, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6685
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 106, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6685
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 107, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6685
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 108, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6685
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 109, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6685
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 110, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6684
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 111, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6684
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 112, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6684
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 113, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6684
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 114, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6684
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 115, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6683
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 116, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6683
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 117, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6683
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 118, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6683
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 119, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6682
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 120, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6682
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 121, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6682
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 122, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6682
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 123, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6682
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 124, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6682
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 125, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6681
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 126, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6681
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 127, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6681
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 128, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6681
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 129, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6680
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 130, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6681
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 131, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6680
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 132, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6680
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 133, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6680
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 134, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6680
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 135, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6680
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 136, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6679
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 137, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6679
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 138, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6679
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 139, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6679
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 140, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6678
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 141, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6678
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 142, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6678
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 143, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6678
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 144, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6678
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 145, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6678
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 146, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6677
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 147, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6677
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 148, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6677
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 149, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6677
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 150, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6677
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 151, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6677
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 152, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6676
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 153, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6676
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 154, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6676
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 155, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6676
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 156, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6676
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 157, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6676
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 158, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6676
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 159, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6675
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 160, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6675
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 161, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6675
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 162, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6675
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 163, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6675
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 164, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6674
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 165, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6674
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 166, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6674
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 167, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6674
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 168, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6674
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 169, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6674
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 170, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6674
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 171, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6673
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 172, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6673
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 173, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6673
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 174, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6673
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 175, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6673
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 176, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6672
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 177, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6672
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 178, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6672
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 179, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6672
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 180, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6672
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 181, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6672
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 182, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6672
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 183, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6671
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 184, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6671
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 185, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6671
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 186, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6671
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 187, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6671
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 188, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6671
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 189, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6670
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 190, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6670
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 191, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6670
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 192, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6670
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 193, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6670
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 194, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6670
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 195, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6670
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 196, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6669
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 197, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6669
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 198, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6669
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 199, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6669
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 200, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6669
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 201, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6669
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 202, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6669
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 203, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6668
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 204, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6668
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 205, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6668
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 206, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6668
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 207, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6668
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 208, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6668
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 209, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6668
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 210, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6667
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 211, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6667
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 212, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6667
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 213, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6667
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 214, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6667
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 215, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6667
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 216, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6667
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 217, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6666
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 218, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6666
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 219, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6666
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 220, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6666
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 221, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6666
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 222, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6666
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 223, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6666
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 224, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6665
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 225, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6665
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 226, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6665
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 227, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6665
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 228, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6665
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 229, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6665
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 230, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6665
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 231, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6664
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 232, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6664
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 233, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6664
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 234, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6664
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 235, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6664
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 236, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6664
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 237, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6664
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 238, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6663
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 239, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6663
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 240, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6663
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 241, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6663
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 242, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6663
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 243, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6663
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 244, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6663
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 245, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6663
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 246, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6663
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 247, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6663
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 248, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6662
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 249, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6662
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 250, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6662
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 251, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6662
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 252, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6662
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 253, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6662
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 254, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6661
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 255, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6661
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 256, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6661
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 257, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6661
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 258, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6661
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 259, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6660
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 260, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6660
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 261, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6660
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 262, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6660
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 263, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6660
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 264, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6660
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 265, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6660
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 266, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6660
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 267, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6660
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 268, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6660
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 269, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6659
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 270, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6659
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 271, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6659
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 272, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6659
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 273, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6658
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 274, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6658
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 275, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6659
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 276, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6658
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 277, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6658
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 278, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6658
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 279, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6658
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 280, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6657
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 281, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6657
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 282, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6657
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 283, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6657
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 284, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6657
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 285, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6657
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 286, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6657
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 287, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6657
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 288, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6656
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 289, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6657
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 290, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6656
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 291, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6656
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 292, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6656
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 293, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6656
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 294, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6656
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 295, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6656
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 296, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6656
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 297, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6655
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 298, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6655
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 299, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6655
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 300, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6655
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 301, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6655
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 302, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6655
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 303, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6655
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 304, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6654
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 305, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6654
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 306, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6654
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 307, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6654
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 308, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6654
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 309, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6653
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 310, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6654
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 311, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6653
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 312, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6653
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 313, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6653
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 314, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6653
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 315, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6653
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 316, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6653
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 317, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6653
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 318, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6652
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 319, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6652
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 320, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6652
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 321, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6652
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 322, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6652
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 323, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6652
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 324, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6652
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 325, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6651
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 326, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6651
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 327, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6651
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 328, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6651
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 329, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6651
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 330, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6651
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 331, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6651
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 332, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6650
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 333, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6650
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 334, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6650
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 335, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6650
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 336, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6650
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 337, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6650
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 338, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6650
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 339, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6649
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 340, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6649
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 341, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6649
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 342, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6649
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 343, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6649
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 344, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6649
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 345, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6648
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 346, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6648
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 347, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6648
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 348, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6648
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 349, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6648
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 350, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6648
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 351, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6648
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 352, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6648
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 353, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6647
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 354, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6647
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 355, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6647
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 356, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6647
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 357, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6647
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 358, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6647
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 359, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6647
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 360, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6646
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 361, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6646
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 362, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6646
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 363, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6646
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 364, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6646
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 365, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6645
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 366, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6645
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 367, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6645
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 368, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6645
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 369, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6645
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 370, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6645
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 371, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6644
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 372, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6644
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 373, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6644
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 374, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6644
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 375, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6644
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 376, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6644
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 377, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6644
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 378, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6643
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 379, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6643
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 380, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6643
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 381, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6643
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 382, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6643
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 383, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6643
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 384, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6643
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 385, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6642
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 386, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6642
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 387, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6642
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 388, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6642
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 389, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6642
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 390, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6642
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 391, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6642
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 392, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6641
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 393, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6641
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 394, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6641
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 395, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6641
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 396, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6641
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 397, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6641
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 398, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6641
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 399, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6640
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 400, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6640
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 401, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6640
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 402, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6640
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 403, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6640
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 404, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6640
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 405, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6640
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 406, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6639
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 407, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6639
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 408, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6639
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 409, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6639
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 410, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6639
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 411, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6639
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 412, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6639
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 413, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6638
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 414, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6638
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 415, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6638
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 416, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6638
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 417, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6638
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 418, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6638
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 419, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6638
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 420, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6637
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 421, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6637
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 422, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6637
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 423, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6637
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 424, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6637
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 425, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6637
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 426, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6636
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 427, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6636
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 428, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6636
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 429, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6636
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 430, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6636
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 431, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6636
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 432, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6635
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 433, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6635
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 434, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6635
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 435, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6635
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 436, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6635
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 437, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6635
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 438, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6634
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 439, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6634
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 440, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6634
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 441, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6634
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 442, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6634
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 443, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6634
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 444, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6633
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 445, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6633
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 446, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6633
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 447, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6633
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 448, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6633
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 449, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6633
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 450, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6633
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 451, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6632
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 452, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6632
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 453, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6632
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 454, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6632
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 455, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6632
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 456, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6631
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 457, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6631
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 458, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6631
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 459, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6631
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 460, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6631
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 461, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6631
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 462, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6630
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 463, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6630
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 464, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6630
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 465, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6630
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 466, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6630
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 467, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6630
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 468, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6630
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 469, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6629
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 470, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6629
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 471, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6629
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 472, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6629
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 473, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6629
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 474, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6629
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 475, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6628
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 476, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6628
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 477, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6628
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 478, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6628
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 479, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6628
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 480, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6628
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 481, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6627
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 482, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6627
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 483, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6627
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 484, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6627
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 485, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6627
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 486, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6627
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 487, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6626
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 488, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6626
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 489, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6626
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 490, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6626
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 491, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6626
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 492, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6625
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 493, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6625
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 494, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6625
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 495, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6625
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 496, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6625
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 497, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6625
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 498, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6624
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 499, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6624
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 500, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6624
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 501, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6624
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 502, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6624
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 503, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6624
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 504, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6623
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 505, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6623
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 506, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6623
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 507, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6623
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 508, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6623
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 509, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6622
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 510, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6622
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 511, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6622
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 512, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6622
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 513, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6622
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 514, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6621
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 515, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6621
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 516, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6621
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 517, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6621
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 518, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6621
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 519, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6620
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 520, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6620
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 521, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6620
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 522, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6620
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 523, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6620
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 524, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6620
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 525, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6619
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 526, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6619
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 527, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6619
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 528, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6619
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 529, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6619
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 530, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6619
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 531, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6618
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 532, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6618
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 533, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6618
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 534, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6618
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 535, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6618
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 536, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6617
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 537, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6617
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 538, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6617
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 539, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6617
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 540, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6616
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 541, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6616
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 542, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6616
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 543, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6616
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 544, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6616
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 545, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6615
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 546, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6615
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 547, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6615
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 548, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6615
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 549, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6615
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 550, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6615
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 551, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6614
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 552, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6614
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 553, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6614
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 554, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6614
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 555, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6614
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 556, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6613
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 557, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6613
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 558, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6613
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 559, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6613
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 560, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6612
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 561, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6612
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 562, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6612
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 563, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6612
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 564, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6612
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 565, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6611
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 566, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6611
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 567, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6611
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 568, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6611
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 569, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6611
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 570, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6610
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 571, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6610
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 572, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6610
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 573, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6610
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 574, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6609
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 575, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6609
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 576, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6609
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 577, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6609
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 578, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6609
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 579, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6608
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 580, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6608
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 581, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6608
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 582, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6608
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 583, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6608
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 584, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6607
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 585, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6607
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 586, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6607
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 587, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6607
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 588, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6606
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 589, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6606
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 590, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6606
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 591, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6606
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 592, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6606
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 593, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6605
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 594, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6605
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 595, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6605
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 596, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6605
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 597, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6604
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 598, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6604
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 599, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6604
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 600, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6604
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 601, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6603
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 602, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6603
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 603, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6603
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 604, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6603
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 605, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6602
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 606, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6602
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 607, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6602
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 608, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6602
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 609, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6602
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 610, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6601
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 611, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6601
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 612, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6601
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 613, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6601
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 614, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6600
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 615, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6600
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 616, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6600
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 617, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6600
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 618, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6599
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 619, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6599
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 620, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6599
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 621, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6598
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 622, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6598
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 623, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6598
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 624, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6598
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 625, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6598
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 626, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6597
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 627, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6597
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 628, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6597
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 629, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6597
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 630, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6596
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 631, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6596
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 632, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6596
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 633, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6596
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 634, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6595
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 635, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6595
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 636, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6595
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 637, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6594
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 638, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6594
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 639, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6594
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 640, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6594
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 641, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6593
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 642, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6593
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 643, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6593
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 644, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6593
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 645, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6592
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 646, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6592
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 647, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6592
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 648, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6592
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 649, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6591
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 650, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6591
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 651, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6591
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 652, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6590
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 653, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6590
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 654, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6590
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 655, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6590
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 656, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6589
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 657, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6589
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 658, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6589
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 659, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6588
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 660, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6588
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 661, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6588
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 662, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6588
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 663, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6587
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 664, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6587
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 665, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6587
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 666, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6586
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 667, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6586
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 668, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6586
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 669, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6585
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 670, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6585
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 671, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6585
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 672, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6585
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 673, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6584
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 674, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6584
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 675, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6584
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 676, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6584
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 677, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6583
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 678, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6583
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 679, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6583
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 680, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6582
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 681, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6582
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 682, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6582
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 683, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6582
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 684, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6581
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 685, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6581
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 686, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6581
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 687, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6580
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 688, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6580
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 689, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6580
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 690, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6579
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 691, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6579
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 692, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6579
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 693, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6579
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 694, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6578
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 695, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6578
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 696, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6578
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 697, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6577
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 698, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6577
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 699, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6577
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 700, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6577
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 701, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6576
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 702, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6576
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 703, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6576
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 704, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6575
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 705, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6575
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 706, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6575
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 707, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6574
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 708, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6573
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 709, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6573
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 710, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6573
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 711, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6572
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 712, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6572
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 713, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6572
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 714, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6572
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 715, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6571
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 716, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6571
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 717, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6571
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 718, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6570
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 719, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6570
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 720, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6570
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 721, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6570
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 722, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6569
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 723, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6569
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 724, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6568
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 725, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6568
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 726, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6567
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 727, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6567
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 728, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6567
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 729, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6566
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 730, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6566
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 731, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6566
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 732, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6565
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 733, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6565
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 734, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6565
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 735, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6565
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 736, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6564
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 737, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6564
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 738, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6563
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 739, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6563
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 740, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6563
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 741, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6563
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 742, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6563
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 743, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6562
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 744, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6562
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 745, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6561
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 746, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6561
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 747, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6560
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 748, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6560
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 749, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6560
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 750, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6559
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 751, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6559
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 752, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6559
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 753, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6558
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 754, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6558
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 755, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6557
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 756, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6557
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 757, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6556
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 758, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6556
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 759, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6556
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 760, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6555
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 761, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6555
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 762, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6555
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 763, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6555
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 764, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6554
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 765, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6553
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 766, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6553
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 767, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6552
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 768, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6552
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 769, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6552
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 770, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6552
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 771, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6551
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 772, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6551
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 773, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6550
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 774, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6550
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 775, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6549
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 776, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6549
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 777, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6548
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 778, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6547
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 779, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6547
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 780, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6546
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 781, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6546
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 782, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6546
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 783, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6545
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 784, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6545
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 785, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6545
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 786, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6545
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 787, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6545
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 788, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6544
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 789, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6543
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 790, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6543
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 791, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6543
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 792, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6542
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 793, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6542
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 794, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6542
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 795, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6540
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 796, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6540
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 797, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6539
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 798, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6539
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 799, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6539
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 800, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6538
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 801, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6538
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 802, 10000 inst] Testing model accuracy: 0.6206, Loss: 0.6537
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 803, 10000 inst] Testing model accuracy: 0.6206, Loss: 0.6536
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 804, 10000 inst] Testing model accuracy: 0.6206, Loss: 0.6536
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 805, 10000 inst] Testing model accuracy: 0.6206, Loss: 0.6536
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 806, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6535
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 807, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6535
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 808, 10000 inst] Testing model accuracy: 0.6206, Loss: 0.6535
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 809, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6534
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 810, 10000 inst] Testing model accuracy: 0.6206, Loss: 0.6534
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 811, 10000 inst] Testing model accuracy: 0.6206, Loss: 0.6534
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 812, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6534
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 813, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6532
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 814, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6531
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 815, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6531
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 816, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6531
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 817, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6530
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 818, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6530
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 819, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6530
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 820, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6528
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 821, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6528
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 822, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6527
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 823, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6527
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 824, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6527
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 825, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6526
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 826, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6526
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 827, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6525
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 828, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6525
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 829, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6525
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 830, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6524
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 831, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6524
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 832, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6523
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 833, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6522
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 834, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6522
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 835, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6520
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 836, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6521
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 837, 10000 inst] Testing model accuracy: 0.6211, Loss: 0.6519
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 838, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6519
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 839, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6518
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 840, 10000 inst] Testing model accuracy: 0.6210, Loss: 0.6519
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 841, 10000 inst] Testing model accuracy: 0.6211, Loss: 0.6518
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 842, 10000 inst] Testing model accuracy: 0.6210, Loss: 0.6517
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 843, 10000 inst] Testing model accuracy: 0.6211, Loss: 0.6517
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 844, 10000 inst] Testing model accuracy: 0.6211, Loss: 0.6516
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 845, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6515
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 846, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6516
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 847, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6516
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 848, 10000 inst] Testing model accuracy: 0.6210, Loss: 0.6514
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 849, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6514
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 850, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6513
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 851, 10000 inst] Testing model accuracy: 0.6211, Loss: 0.6512
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 852, 10000 inst] Testing model accuracy: 0.6210, Loss: 0.6511
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 853, 10000 inst] Testing model accuracy: 0.6210, Loss: 0.6511
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 854, 10000 inst] Testing model accuracy: 0.6210, Loss: 0.6510
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 855, 10000 inst] Testing model accuracy: 0.6212, Loss: 0.6509
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 856, 10000 inst] Testing model accuracy: 0.6212, Loss: 0.6509
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 857, 10000 inst] Testing model accuracy: 0.6212, Loss: 0.6509
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 858, 10000 inst] Testing model accuracy: 0.6212, Loss: 0.6508
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 859, 10000 inst] Testing model accuracy: 0.6211, Loss: 0.6508
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 860, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6509
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 861, 10000 inst] Testing model accuracy: 0.6211, Loss: 0.6507
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 862, 10000 inst] Testing model accuracy: 0.6210, Loss: 0.6506
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 863, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6504
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 864, 10000 inst] Testing model accuracy: 0.6210, Loss: 0.6505
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 865, 10000 inst] Testing model accuracy: 0.6210, Loss: 0.6503
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 866, 10000 inst] Testing model accuracy: 0.6210, Loss: 0.6503
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 867, 10000 inst] Testing model accuracy: 0.6210, Loss: 0.6503
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 868, 10000 inst] Testing model accuracy: 0.6211, Loss: 0.6502
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 869, 10000 inst] Testing model accuracy: 0.6213, Loss: 0.6500
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 870, 10000 inst] Testing model accuracy: 0.6213, Loss: 0.6500
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 871, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6500
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 872, 10000 inst] Testing model accuracy: 0.6213, Loss: 0.6499
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 873, 10000 inst] Testing model accuracy: 0.6210, Loss: 0.6499
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 874, 10000 inst] Testing model accuracy: 0.6210, Loss: 0.6499
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 875, 10000 inst] Testing model accuracy: 0.6210, Loss: 0.6498
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 876, 10000 inst] Testing model accuracy: 0.6213, Loss: 0.6497
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 877, 10000 inst] Testing model accuracy: 0.6214, Loss: 0.6495
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 878, 10000 inst] Testing model accuracy: 0.6214, Loss: 0.6496
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 879, 10000 inst] Testing model accuracy: 0.6217, Loss: 0.6494
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 880, 10000 inst] Testing model accuracy: 0.6216, Loss: 0.6494
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 881, 10000 inst] Testing model accuracy: 0.6216, Loss: 0.6494
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 882, 10000 inst] Testing model accuracy: 0.6215, Loss: 0.6494
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 883, 10000 inst] Testing model accuracy: 0.6213, Loss: 0.6493
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 884, 10000 inst] Testing model accuracy: 0.6216, Loss: 0.6492
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 885, 10000 inst] Testing model accuracy: 0.6213, Loss: 0.6492
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 886, 10000 inst] Testing model accuracy: 0.6216, Loss: 0.6490
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 887, 10000 inst] Testing model accuracy: 0.6217, Loss: 0.6488
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 888, 10000 inst] Testing model accuracy: 0.6217, Loss: 0.6489
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 889, 10000 inst] Testing model accuracy: 0.6217, Loss: 0.6489
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 890, 10000 inst] Testing model accuracy: 0.6218, Loss: 0.6487
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 891, 10000 inst] Testing model accuracy: 0.6222, Loss: 0.6486
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 892, 10000 inst] Testing model accuracy: 0.6218, Loss: 0.6486
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 893, 10000 inst] Testing model accuracy: 0.6223, Loss: 0.6485
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 894, 10000 inst] Testing model accuracy: 0.6218, Loss: 0.6485
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 895, 10000 inst] Testing model accuracy: 0.6217, Loss: 0.6486
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 896, 10000 inst] Testing model accuracy: 0.6217, Loss: 0.6485
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 897, 10000 inst] Testing model accuracy: 0.6218, Loss: 0.6484
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 898, 10000 inst] Testing model accuracy: 0.6218, Loss: 0.6483
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 899, 10000 inst] Testing model accuracy: 0.6218, Loss: 0.6482
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 900, 10000 inst] Testing model accuracy: 0.6221, Loss: 0.6481
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 901, 10000 inst] Testing model accuracy: 0.6222, Loss: 0.6481
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 902, 10000 inst] Testing model accuracy: 0.6219, Loss: 0.6481
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 903, 10000 inst] Testing model accuracy: 0.6217, Loss: 0.6481
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 904, 10000 inst] Testing model accuracy: 0.6223, Loss: 0.6479
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 905, 10000 inst] Testing model accuracy: 0.6224, Loss: 0.6477
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 906, 10000 inst] Testing model accuracy: 0.6223, Loss: 0.6476
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 907, 10000 inst] Testing model accuracy: 0.6227, Loss: 0.6475
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 908, 10000 inst] Testing model accuracy: 0.6223, Loss: 0.6475
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 909, 10000 inst] Testing model accuracy: 0.6223, Loss: 0.6475
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 910, 10000 inst] Testing model accuracy: 0.6223, Loss: 0.6475
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 911, 10000 inst] Testing model accuracy: 0.6228, Loss: 0.6472
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 912, 10000 inst] Testing model accuracy: 0.6227, Loss: 0.6472
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 913, 10000 inst] Testing model accuracy: 0.6227, Loss: 0.6472
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 914, 10000 inst] Testing model accuracy: 0.6227, Loss: 0.6471
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 915, 10000 inst] Testing model accuracy: 0.6227, Loss: 0.6470
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 916, 10000 inst] Testing model accuracy: 0.6222, Loss: 0.6471
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 917, 10000 inst] Testing model accuracy: 0.6225, Loss: 0.6471
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 918, 10000 inst] Testing model accuracy: 0.6225, Loss: 0.6469
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 919, 10000 inst] Testing model accuracy: 0.6232, Loss: 0.6468
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 920, 10000 inst] Testing model accuracy: 0.6231, Loss: 0.6467
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 921, 10000 inst] Testing model accuracy: 0.6236, Loss: 0.6465
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 922, 10000 inst] Testing model accuracy: 0.6237, Loss: 0.6464
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 923, 10000 inst] Testing model accuracy: 0.6237, Loss: 0.6463
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 924, 10000 inst] Testing model accuracy: 0.6233, Loss: 0.6463
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 925, 10000 inst] Testing model accuracy: 0.6237, Loss: 0.6461
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 926, 10000 inst] Testing model accuracy: 0.6238, Loss: 0.6461
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 927, 10000 inst] Testing model accuracy: 0.6237, Loss: 0.6460
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 928, 10000 inst] Testing model accuracy: 0.6246, Loss: 0.6459
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 929, 10000 inst] Testing model accuracy: 0.6247, Loss: 0.6458
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 930, 10000 inst] Testing model accuracy: 0.6237, Loss: 0.6458
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 931, 10000 inst] Testing model accuracy: 0.6235, Loss: 0.6459
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 932, 10000 inst] Testing model accuracy: 0.6241, Loss: 0.6457
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 933, 10000 inst] Testing model accuracy: 0.6247, Loss: 0.6455
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 934, 10000 inst] Testing model accuracy: 0.6246, Loss: 0.6455
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 935, 10000 inst] Testing model accuracy: 0.6256, Loss: 0.6452
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 936, 10000 inst] Testing model accuracy: 0.6242, Loss: 0.6454
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 937, 10000 inst] Testing model accuracy: 0.6249, Loss: 0.6453
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 938, 10000 inst] Testing model accuracy: 0.6235, Loss: 0.6455
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 939, 10000 inst] Testing model accuracy: 0.6249, Loss: 0.6452
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 940, 10000 inst] Testing model accuracy: 0.6256, Loss: 0.6450
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 941, 10000 inst] Testing model accuracy: 0.6257, Loss: 0.6448
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 942, 10000 inst] Testing model accuracy: 0.6256, Loss: 0.6447
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 943, 10000 inst] Testing model accuracy: 0.6257, Loss: 0.6447
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 944, 10000 inst] Testing model accuracy: 0.6255, Loss: 0.6447
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 945, 10000 inst] Testing model accuracy: 0.6254, Loss: 0.6447
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 946, 10000 inst] Testing model accuracy: 0.6260, Loss: 0.6444
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 947, 10000 inst] Testing model accuracy: 0.6268, Loss: 0.6442
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 948, 10000 inst] Testing model accuracy: 0.6261, Loss: 0.6442
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 949, 10000 inst] Testing model accuracy: 0.6277, Loss: 0.6440
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 950, 10000 inst] Testing model accuracy: 0.6265, Loss: 0.6440
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 951, 10000 inst] Testing model accuracy: 0.6258, Loss: 0.6441
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 952, 10000 inst] Testing model accuracy: 0.6257, Loss: 0.6442
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 953, 10000 inst] Testing model accuracy: 0.6261, Loss: 0.6439
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 954, 10000 inst] Testing model accuracy: 0.6265, Loss: 0.6438
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 955, 10000 inst] Testing model accuracy: 0.6256, Loss: 0.6439
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 956, 10000 inst] Testing model accuracy: 0.6261, Loss: 0.6438
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 957, 10000 inst] Testing model accuracy: 0.6261, Loss: 0.6436
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 958, 10000 inst] Testing model accuracy: 0.6263, Loss: 0.6435
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 959, 10000 inst] Testing model accuracy: 0.6277, Loss: 0.6433
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 960, 10000 inst] Testing model accuracy: 0.6277, Loss: 0.6433
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 961, 10000 inst] Testing model accuracy: 0.6285, Loss: 0.6431
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 962, 10000 inst] Testing model accuracy: 0.6270, Loss: 0.6432
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 963, 10000 inst] Testing model accuracy: 0.6286, Loss: 0.6429
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 964, 10000 inst] Testing model accuracy: 0.6281, Loss: 0.6430
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 965, 10000 inst] Testing model accuracy: 0.6281, Loss: 0.6429
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 966, 10000 inst] Testing model accuracy: 0.6277, Loss: 0.6429
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 967, 10000 inst] Testing model accuracy: 0.6286, Loss: 0.6426
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 968, 10000 inst] Testing model accuracy: 0.6287, Loss: 0.6425
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 969, 10000 inst] Testing model accuracy: 0.6286, Loss: 0.6425
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 970, 10000 inst] Testing model accuracy: 0.6284, Loss: 0.6422
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 971, 10000 inst] Testing model accuracy: 0.6280, Loss: 0.6420
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 972, 10000 inst] Testing model accuracy: 0.6283, Loss: 0.6421
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 973, 10000 inst] Testing model accuracy: 0.6288, Loss: 0.6421
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 974, 10000 inst] Testing model accuracy: 0.6284, Loss: 0.6418
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 975, 10000 inst] Testing model accuracy: 0.6285, Loss: 0.6418
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 976, 10000 inst] Testing model accuracy: 0.6286, Loss: 0.6417
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 977, 10000 inst] Testing model accuracy: 0.6283, Loss: 0.6413
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 978, 10000 inst] Testing model accuracy: 0.6284, Loss: 0.6414
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 979, 10000 inst] Testing model accuracy: 0.6284, Loss: 0.6416
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 980, 10000 inst] Testing model accuracy: 0.6286, Loss: 0.6418
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 981, 10000 inst] Testing model accuracy: 0.6288, Loss: 0.6413
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 982, 10000 inst] Testing model accuracy: 0.6282, Loss: 0.6411
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 983, 10000 inst] Testing model accuracy: 0.6285, Loss: 0.6410
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 984, 10000 inst] Testing model accuracy: 0.6289, Loss: 0.6411
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 985, 10000 inst] Testing model accuracy: 0.6284, Loss: 0.6409
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 986, 10000 inst] Testing model accuracy: 0.6287, Loss: 0.6411
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 987, 10000 inst] Testing model accuracy: 0.6286, Loss: 0.6409
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 988, 10000 inst] Testing model accuracy: 0.6291, Loss: 0.6405
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 989, 10000 inst] Testing model accuracy: 0.6287, Loss: 0.6404
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 990, 10000 inst] Testing model accuracy: 0.6287, Loss: 0.6405
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 991, 10000 inst] Testing model accuracy: 0.6289, Loss: 0.6402
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 992, 10000 inst] Testing model accuracy: 0.6289, Loss: 0.6402
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 993, 10000 inst] Testing model accuracy: 0.6290, Loss: 0.6402
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 994, 10000 inst] Testing model accuracy: 0.6289, Loss: 0.6400
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 995, 10000 inst] Testing model accuracy: 0.6294, Loss: 0.6395
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 996, 10000 inst] Testing model accuracy: 0.6295, Loss: 0.6394
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 997, 10000 inst] Testing model accuracy: 0.6292, Loss: 0.6395
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 998, 10000 inst] Testing model accuracy: 0.6298, Loss: 0.6392
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 999, 10000 inst] Testing model accuracy: 0.6296, Loss: 0.6392
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 8
+[epoch 1000, 10000 inst] Testing model accuracy: 0.6295, Loss: 0.6392

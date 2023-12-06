@@ -1,0 +1,6 @@
+SMALL, BIG: 0, 46
+traing clients: 46, malicious train nodes: 1, malicious committee nodes: 1, malicious average nodes: 0
+[epoch 1, -1 inst] Testing model accuracy: 0.6213, Loss: 0.6660
+SMALL, BIG: 0, 46
+traing clients: 46, malicious train nodes: 1, malicious committee nodes: 0, malicious average nodes: 0
+[epoch 2, -1 inst] Testing model accuracy: 0.6213, Loss: 0.6632

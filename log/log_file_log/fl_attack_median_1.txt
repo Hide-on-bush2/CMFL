@@ -1,0 +1,3 @@
+fl_attack_ActiveRate_0.10_MergeMethod_0_AttackMethod_0_AttackNode_0.00_AttackRange_0.00_AggregationRate_0.4_epoch_1000_2022-03-27-20:59:54.txt
+fl_attack_ActiveRate_0.10_MergeMethod_0_AttackMethod_1_AttackNode_0.10_AttackRange_0.50_AggregationRate_0.4_epoch_1000_2022-03-28-06:45:48.txt
+fl_attack_ActiveRate_0.10_MergeMethod_1_AttackMethod_1_AttackNode_0.10_AttackRange_0.50_AggregationRate_0.4_epoch_1000_2022-03-28-16:48:53.txt

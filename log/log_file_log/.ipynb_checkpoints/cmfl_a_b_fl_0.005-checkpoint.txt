@@ -1,0 +1,1 @@
+fl_attack_learningRate_0.005_ActiveRate_0.04_MergeMethod_0_AttackMethod_0_AttackNode_0.00_AttackRange_0.00_AggregationRate_0.4_epoch_1000_2022-05-03-19:52:47.txt

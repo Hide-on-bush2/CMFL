@@ -1,0 +1,3 @@
+bflc_weight_attack_Selection_1.00_CommitteeNode_0.40_AggregationNode_0.40_ActiveRate_0.10_AttackMethod_1_AttackNode_0.10_AttackRange_0.50_epoch_200_2022-03-21-21:35:52.txt
+bflc_weight_attack_Selection_1.00_CommitteeNode_0.40_AggregationNode_0.40_ActiveRate_0.10_AttackMethod_2_AttackNode_0.10_AttackRange_0.50_epoch_200_2022-03-22-12:19:15.txt
+bflc_weight_attack_Selection_1.00_CommitteeNode_0.40_AggregationNode_0.40_ActiveRate_0.10_AttackMethod_6_AttackNode_0.10_AttackRange_0.50_epoch_200_2022-03-23-00:20:33.txt

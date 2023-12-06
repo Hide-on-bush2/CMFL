@@ -1,0 +1,1 @@
+bflc_weight_attack_Selection_1.00_learningRate_0.005_CommitteeNode_0.40_AggregationNode_0.40_ActiveRate_0.10_AttackMethod_1_AttackNode_0.10_AttackRange_0.50_epoch_1000_2022-04-08-01:05:19.txt

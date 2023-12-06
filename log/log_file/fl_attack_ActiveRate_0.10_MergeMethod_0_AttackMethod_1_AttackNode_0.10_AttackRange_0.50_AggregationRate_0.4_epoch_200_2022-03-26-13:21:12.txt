@@ -1,0 +1,3 @@
+SMALL, BIG: 0, 77
+traing clients: 77, malicious train nodes: 3
+[epoch 1, 10000 inst] Testing model accuracy: 0.6213, Loss: 0.6701

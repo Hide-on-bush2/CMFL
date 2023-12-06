@@ -1,0 +1,9 @@
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 0
+[epoch 1, 10000 inst] Testing model accuracy: 0.5762, Loss: 0.6890
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 0
+[epoch 2, 10000 inst] Testing model accuracy: 0.6000, Loss: 0.6886
+SMALL, BIG: 0, 108
+traing clients: 108, malicious train nodes: 0
+[epoch 3, 10000 inst] Testing model accuracy: 0.6136, Loss: 0.6878

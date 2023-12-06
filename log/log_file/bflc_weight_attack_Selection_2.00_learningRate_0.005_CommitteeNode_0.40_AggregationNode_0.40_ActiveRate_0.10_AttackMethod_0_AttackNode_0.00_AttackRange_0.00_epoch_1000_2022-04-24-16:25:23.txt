@@ -1,0 +1,33 @@
+SMALL, BIG: 0, 65
+traing clients: 65, malicious train nodes: 0, malicious committee nodes: 0, malicious average nodes: 0
+[epoch 1, 10000 inst] Testing model accuracy: 0.5803, Loss: 0.6890
+SMALL, BIG: 0, 65
+traing clients: 65, malicious train nodes: 0, malicious committee nodes: 0, malicious average nodes: 0
+[epoch 2, 10000 inst] Testing model accuracy: 0.6178, Loss: 0.6873
+SMALL, BIG: 0, 65
+traing clients: 65, malicious train nodes: 0, malicious committee nodes: 0, malicious average nodes: 0
+[epoch 3, 10000 inst] Testing model accuracy: 0.6203, Loss: 0.6861
+SMALL, BIG: 0, 65
+traing clients: 65, malicious train nodes: 0, malicious committee nodes: 0, malicious average nodes: 0
+[epoch 4, 10000 inst] Testing model accuracy: 0.6207, Loss: 0.6853
+SMALL, BIG: 0, 65
+traing clients: 65, malicious train nodes: 0, malicious committee nodes: 0, malicious average nodes: 0
+[epoch 5, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6845
+SMALL, BIG: 0, 65
+traing clients: 65, malicious train nodes: 0, malicious committee nodes: 0, malicious average nodes: 0
+[epoch 6, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6837
+SMALL, BIG: 0, 65
+traing clients: 65, malicious train nodes: 0, malicious committee nodes: 0, malicious average nodes: 0
+[epoch 7, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6833
+SMALL, BIG: 0, 65
+traing clients: 65, malicious train nodes: 0, malicious committee nodes: 0, malicious average nodes: 0
+[epoch 8, 10000 inst] Testing model accuracy: 0.6204, Loss: 0.6861
+SMALL, BIG: 0, 65
+traing clients: 65, malicious train nodes: 0, malicious committee nodes: 0, malicious average nodes: 0
+[epoch 9, 10000 inst] Testing model accuracy: 0.6206, Loss: 0.6856
+SMALL, BIG: 0, 65
+traing clients: 65, malicious train nodes: 0, malicious committee nodes: 0, malicious average nodes: 0
+[epoch 10, 10000 inst] Testing model accuracy: 0.6209, Loss: 0.6850
+SMALL, BIG: 0, 65
+traing clients: 65, malicious train nodes: 0, malicious committee nodes: 0, malicious average nodes: 0
+[epoch 11, 10000 inst] Testing model accuracy: 0.6208, Loss: 0.6836
