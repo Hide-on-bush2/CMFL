@@ -1,4 +1,4 @@
-# A Decentralized Federated Learning Framework via Committee Mechanism With Convergence Guarantee
+# (Published in TPDS) A Decentralized Federated Learning Framework via Committee Mechanism With Convergence Guarantee
 
 This repository contains the code and experiments for the paper:
 
@@ -63,54 +63,54 @@ export CUDA_VISIBLE_DEVICES=
 
 ### Dataset & Model
 
-We have provided multiple datasets for evaluation:: 
+We have provided multiple datasets for evaluation::
 
-* sent140 
-* nist 
-* shakespeare 
-* mnist 
-* synthetic_iid 
-* synthetic_0_0 
-* synthetic_0.5_0.5 
-* synthetic_1_1
+- sent140
+- nist
+- shakespeare
+- mnist
+- synthetic_iid
+- synthetic_0_0
+- synthetic_0.5_0.5
+- synthetic_1_1
 
 Basically, you can specify the corresponding model of that dataset (choose from `flearn/models/$DATASET/$MODEL.py` and use `$MODEL` as the model name), available models are as follows:
 
-* sent140.bag_dnn
-* sent140.stacked_lstm
-* sent140.stacked_lstm_no_embeddings
-* nist.mclr
-* mnist.mclr
-* mnist.cnn
-* shakespeare.stacked_lstm
-* synthetic.mclr': (10, ) 
+- sent140.bag_dnn
+- sent140.stacked_lstm
+- sent140.stacked_lstm_no_embeddings
+- nist.mclr
+- mnist.mclr
+- mnist.cnn
+- shakespeare.stacked_lstm
+- synthetic.mclr': (10, )
 
 ### Committee-related Parameters
 
 We implement the training algorithm of CMFL in `src/flearn/trainers/cmfl.py`, and you can specify the committee-related parameters:
 
-* `selection_strategy`: you can choose which selection strategy you want to use by specifying 1 or 2.
-* `committee_rate`: the percentage of commitee members 
-* `aggregation_rate`: the percentage of gradients used for aggregation per round
+- `selection_strategy`: you can choose which selection strategy you want to use by specifying 1 or 2.
+- `committee_rate`: the percentage of commitee members
+- `aggregation_rate`: the percentage of gradients used for aggregation per round
 
 ### Attacker-related Parameters
 
 We implement some possible attack logics of the adversary, which can be specified by the following parameters:
 
-* `attack_rate`: the percentage of the mallicious nodes
-* `attack_method`: the attack strategies the mallicious nodes adpot
-* `attack_range`: specify how powerful the attack is, its value depends on individual attack strategy
+- `attack_rate`: the percentage of the mallicious nodes
+- `attack_method`: the attack strategies the mallicious nodes adpot
+- `attack_range`: specify how powerful the attack is, its value depends on individual attack strategy
 
 ### Other Parameters
 
 There are some other parameters related to the FL itself as follows:
 
-* `learning_rate`
-* `num_rounds`: number of the total rounds
-* `batch_size`
-* `active_rate`: the percentage of activated clients per round
-* `num_epochs`: the number of training epochs per round 
-* `record_log`: the location of the log
+- `learning_rate`
+- `num_rounds`: number of the total rounds
+- `batch_size`
+- `active_rate`: the percentage of activated clients per round
+- `num_epochs`: the number of training epochs per round
+- `record_log`: the location of the log
 
 ## Start the Experiment
 
@@ -149,5 +149,3 @@ src/flearn/models/sent140/glove.6B/glove.6B.50d.txt
 ```
 
 Before you run the demo, you may need to clone [FedProx](https://github.com/litian96/FedProx) and copy the corresponding files to this repository.
-
-
